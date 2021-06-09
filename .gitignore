@@ -1,4 +1,6 @@
 .ipynb_checkpoints
 */ipynb_checkpoints/*
-__pycahce__
-*/__pycahce__/*
+__pycache__
+*/__pycache__/*
+demo.ipynb
+pkg/__pycache__

@@ -7,3 +7,4 @@
 - Sesi 5: Pandas
 - Sesi 6: More Pandas + Plot
 - Sesi 7: Data Visualization
+- Sesi 8: Advanced Visualization
